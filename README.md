@@ -22,11 +22,14 @@ La API estará disponible en: http://localhost:3003/api/productos
 # Endpoints
 
 GET /api/productos — Listar todos los productos.
+
 GET /api/productos/:id — Obtener producto por ID.
+
 POST /api/productos — Crear un nuevo producto.
+
 PATCH /api/productos/:id/incremento-stock — Incrementar stock de un producto.
 
-Documentación de prueba para los endpóints se encuentra en el archivo test.endpoints.htpp.
+Documentación de prueba para los endpóints se encuentra en el archivo test.endpoints.http..
 
 # Validaciones
 
