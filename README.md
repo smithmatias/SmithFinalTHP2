@@ -41,3 +41,7 @@ fechaIngreso debe ser fecha válida en formato ISO 8601 (YYYY-MM-DD).
 # Pruebas
 
 El archivo tests/test.endpoints.http contiene ejemplos para probar la API con herramientas compatibles con archivos HTTP (como REST Client en VS Code).
+
+# Nota
+
+EL proyecto posee dependencias que no eran necesarias para el mismo (ej. Supabase) ya que se instalaron antes de leer correctamente el enunciado.
